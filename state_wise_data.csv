@@ -1,4 +1,4 @@
-NameofState/UT,TotalConfirmedcases,Cured/Discharged/Migrated,Death,Date,Latitude,Longitude,Total cases,Active cases
+NameofState,TotalConfirmedcases,Cured/Discharged/Migrated,Death,Date,Latitude,Longitude,Total cases,Active cases
 Andaman and Nicobar Islands,33,33,0,29-05-2020,11.7401,92.6586,33,0
 Andhra Pradesh,3251,2125,59,29-05-2020,15.9129,79.74,3251,1067
 Arunachal Pradesh,3,1,0,29-05-2020,28.218,94.7278,3,2
